@@ -13,9 +13,6 @@ GSTXpert is an Android application designed to provide users with easy access to
 - TabLayout integration for smooth and user-friendly navigation.
 
 ## Screenshots
-
-_Add screenshots of the app if needed_
-
 ![Screenshot 1](screenshots/Screenshot1.png)
 ![Screenshot 2](screenshots/Screenshot2.png)
 ![Screenshot 3](screenshots/Screenshot3.png)
