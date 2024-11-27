@@ -30,10 +30,6 @@ With an intuitive user interface and multiple roles, GSTXpert makes it easy to s
 
 Here are a few screenshots of the app showcasing its intuitive design and user-friendly navigation:
 
-<p align="center">
-  <img src="screenshots/img1.png" width="250" alt="Screenshot 1" />
-  <img src="screenshots/img2.png" width="250" alt="Screenshot 2" />
-  <img src="screenshots/img3.png" width="250" alt="Screenshot 3" />
-  <img src="screenshots/img4.png" width="250" alt="Screenshot 4" />
-</p>
+| ![Screenshot 1](screenshots/img1.png) | ![Screenshot 2](screenshots/img2.png) | ![Screenshot 3](screenshots/img3.png) | ![Screenshot 4](screenshots/img4.png) |
+| -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 
