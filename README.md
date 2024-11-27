@@ -14,8 +14,8 @@ GSTXpert is an Android application designed to provide users with easy access to
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/Screenshot1.png" width="200" />
-  <img src="screenshots/Screenshot2.png" width="200" />
-  <img src="screenshots/Screenshot3.png" width="200" />
-  <img src="screenshots/Screenshot4.png" width="200" />
+  <img src="screenshots/img1.png" width="200" />
+  <img src="screenshots/img2.png" width="200" />
+  <img src="screenshots/img3.png" width="200" />
+  <img src="screenshots/img4.png" width="200" />
 </p>
